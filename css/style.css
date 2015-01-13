@@ -1,0 +1,23 @@
+/* CSS STYLÉ */
+
+.perso-navbar
+{
+	
+}
+
+.perso-active
+{
+	background-color: red;
+}
+
+.perso-jumbotron
+{
+	background-image: url('http://www.hdwallpapers.in/download/colorful_background-1920x1200.jpg');
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+.perso-col-4
+{
+	border: 1px solid #ccc;
+}
